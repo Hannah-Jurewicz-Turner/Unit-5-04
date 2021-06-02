@@ -20,6 +20,6 @@ function show () {
   document.getElementById('text').style.display = 'block'
 }
 
-function background () {    
+function background () {
   document.body.style.backgroundColor = 'lightblue'
 }
